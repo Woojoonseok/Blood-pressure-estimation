@@ -43,7 +43,7 @@ Short-time Fourier transform (STFT) of sub-windows of length 6 seconds with a Ha
 2. PPG derivative
 * 적용 예정 
 
-## ML models
+## Models
 
 2D-CNN 기반 regrssion model 
 
