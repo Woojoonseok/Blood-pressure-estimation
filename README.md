@@ -68,9 +68,8 @@ Model summary:
 
 ![image](https://user-images.githubusercontent.com/24654400/120140052-ac40e280-c214-11eb-93a8-c601e87183c5.png)
 
---> 학습이 잘되지 않음 
+--> 학습이 잘되지 않음, 원인 분석 필요
 
-논문에서 calibration, current를 나눌 때 가장 첫번째 PPG sample 을 사용
 
 ## TO DO) 
 Preprocessing 단계에서 calibration, current 잘 나뉘었는지 확인
