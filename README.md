@@ -79,3 +79,6 @@ Input pipeline 확인
 
 ## Evaluation 
 
+
+"Google supported this work by providing Google Cloud credit"
+
