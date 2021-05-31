@@ -3,7 +3,7 @@ Blood pressure estimation with PPG signal.
 
 목표 : 
 1. AAMI standard 를 만족하는 모델 학습 (Mean error 5 mmHg, standard deviation 8mmHg 이하)
-2. 최적의 딥러닝 모델 학습 
+2. Transfer learning 
 
 ## Dataset 
 
