@@ -15,6 +15,10 @@ https://archive.ics.uci.edu/ml/datasets/Cuff-Less+Blood+Pressure+Estimation
 
 ## Preprocessing 
 
+PPG, ABP : 30s epoch
+SBP = max(ABP)
+DBP = min(ABP)
+
 PPG signal
 
 ![image](https://user-images.githubusercontent.com/24654400/120130146-6aa63c80-c200-11eb-8b4b-2547eb26baec.png)
