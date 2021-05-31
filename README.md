@@ -74,7 +74,7 @@ Model summary:
 ## TO DO) 
 Preprocessing 단계에서 calibration, current 잘 나뉘었는지 확인
 
-Input pipeline 
+Input pipeline 확인
 
 
 ## Evaluation 
