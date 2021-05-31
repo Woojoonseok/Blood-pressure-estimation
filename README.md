@@ -66,6 +66,17 @@ Model summary:
 ![image](https://user-images.githubusercontent.com/24654400/120137717-dfcd3e00-c20f-11eb-8cad-80fcad471f2e.png)
 
 
+![image](https://user-images.githubusercontent.com/24654400/120140052-ac40e280-c214-11eb-93a8-c601e87183c5.png)
+
+--> 학습이 잘되지 않음 
+
+논문에서 calibration, current를 나눌 때 가장 첫번째 PPG sample 을 사용
+
+## TO DO) 
+Preprocessing 단계에서 calibration, current 잘 나뉘었는지 확인
+
+Input pipeline 
+
 
 ## Evaluation 
 
