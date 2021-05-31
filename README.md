@@ -41,16 +41,18 @@ Short-time Fourier transform (STFT) of sub-windows of length 6 seconds with a Ha
 
 ## ML models
 
-1D-CNN 기반 regrssion model 
+2D-CNN 기반 regrssion model 
 
 Tensorflow version (2.5.0)
 
 GCP AI platform 사용 
 GPU : NVIDIA Tesla T4
 
-* Vertex AI 사용 예정 
+* Vertex AI (사용 예정) 
 
 ## Train Model
+
+Model Summary ;
 
 
 
