@@ -21,15 +21,17 @@ Butterworth band-pass filter(0.5 ~ 10Hz) 적용
 
 Blood pressure가 너무 높거나 너무 낮은 subject 제외 (diastolic < 30 mmHg or > 120 mmHg, systolic < 55 mmHg or > 185 mmHg)
 
-1. Spectrogram method
+### 1. Spectrogram method
 Reference : Schlesinger, Oded, et al. "Estimation and Tracking of Blood Pressure Using Routinely Acquired Photoplethysmographic Signals and Deep Neural Networks." Critical Care Explorations 2.4 (2020).
 
-논문에서 사용한 방법을 그대로 적용 
+논문에서 사용한 방법: 
 Short-time Fourier transform (STFT) of sub-windows of length 6 seconds with a Hamming window and with 95% of overlap between adjacent sub-windows.
+
+
 ![image](https://user-images.githubusercontent.com/24654400/120131020-7135b380-c202-11eb-9bf9-d81066fc04a5.png)
 
 2. PPG derivative
-
+* 적용 예정 
 
 ## ML models
 
