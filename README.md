@@ -79,7 +79,7 @@ Input pipeline 확인
 
 ## Evaluation 
 
-* 
+* 예정 
 
 ### "Google supported this work by providing Google Cloud credit"
 
