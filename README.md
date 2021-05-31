@@ -50,12 +50,18 @@ GPU : NVIDIA Tesla T4
 
 * Vertex AI (사용 예정) 
 
-## Train Model
+## Training 
 
-Model Summary ;
+![image](https://user-images.githubusercontent.com/24654400/120137487-62093280-c20f-11eb-9da2-9eaca0b86d41.png)
+
+Model summary:
+
+
+논문에서 사용한 모델 구현 
+
+![image](https://user-images.githubusercontent.com/24654400/120137717-dfcd3e00-c20f-11eb-8cad-80fcad471f2e.png)
 
 
 
-## Test Model
-
+## Evaluation 
 
